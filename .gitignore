@@ -9,7 +9,7 @@ out/
 .DS_Store
 
 # Eclipse config files
-.project   M
+.project
 .settings
 .classpath
 
